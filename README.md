@@ -1,4 +1,4 @@
-# FreestyleGame
+# FreestyleGame (Android 8+)
 Android game
 
 L’application FreestyleGame est un jeu de freestyle, comme son nom l’indique. 
